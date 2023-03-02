@@ -1,0 +1,45 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+    background-color: #E5E5E5;
+}
+
+h1{
+    background-color: #C4C4C4;
+    color: #005677;
+    font-size: 35px;
+    letter-spacing: 7px;
+    text-align: center;
+}
+
+h2{
+    background-color: #C4C4C4;
+    color: #005677;
+    font-size: 20px;
+    letter-spacing: 6px;
+}
+
+footer{
+    background-color: #005677;
+    color: white;
+    text-align: center;
+}
+
+.datosPersonales{
+    font-style: italic;
+    font-weight: 700;
+}
+
+.intervaloDeAños{
+    font-weight: 700;
+}
+
+.textoIndentado{
+    text-indent: 79px;
+}
+#foto{
+    display: grid;
+    place-items: center;
+}
